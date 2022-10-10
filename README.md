@@ -4,9 +4,9 @@
 
 ### My Certificates
 #### WEB API Testing - Voitixler school
-<a href="https://ibb.co/GnhwbNW"><img src="https://i.ibb.co/9cMXCSb/Certificate-API.png" alt="Certificate-API" border="0"></a>
+<a href="https://ibb.co/GnhwbNW"><img src="https://i.ibb.co/9cMXCSb/Certificate-API.png" width="300" height="200" alt="Certificate-API" border="0"></a>
 #### Work with Chrome DevTools - LearnQA school
-<a href="https://ibb.co/8KYyph5"><img src="https://i.ibb.co/C1PjZr7/Screenshot-2022-01-08-222553.png" alt="Screenshot-2022-01-08-222553" border="0"></a>
+<a href="https://ibb.co/8KYyph5"><img src="https://i.ibb.co/C1PjZr7/Screenshot-2022-01-08-222553.png" width="300" height="200" alt="Screenshot-2022-01-08-222553" border="0"></a>
 
 ### Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
